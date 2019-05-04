@@ -6,4 +6,4 @@ Created on Fri May  3 21:04:05 2019
 @author: shinozakiryo
 """
 
-print("Hello, World!")
+print("Hello, World!") #add comment
