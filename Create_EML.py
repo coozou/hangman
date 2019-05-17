@@ -16,7 +16,7 @@ from email import generator
 
 
 
-from_addr = 't.numajiri_test@ntt.com'
+from_addr = 'r.shinozaki@ntt.com'
 to_addr = 'coozou0001@icloud.com,coozou0002@icloud.com,coozou0003@icloud.com'
 subject = "御礼"
 body = """お世話になっております。
