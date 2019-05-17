@@ -19,9 +19,11 @@ from email import generator
 from_addr = 'r.shinozaki@ntt.com'
 to_addr = 'coozou@icloud.com'
 subject = "御礼"
-body = """お世話になっております。
+body = """
+お世話になっております。
 本日はありがとうございました。
-今後とも宜しくお願い致します。"""
+今後とも宜しくお願い致します。
+"""
 
 encoding = 'utf-8'
 sender_name = Header('Ryo Shinozaki', encoding).encode()
