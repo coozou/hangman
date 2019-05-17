@@ -16,8 +16,13 @@ from email import generator
 
 
 
+honbun = """●●様
+NTT Com篠崎です。お世話になっております。
+本日はありがとうございました。
+"""
+
 from_addr = 'r.shinozaki@ntt.com'
-to_addr = 'coozou@icloud.com'
+to_addr = honbun
 subject = "御礼"
 body = """
 お世話になっております。
